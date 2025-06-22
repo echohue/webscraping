@@ -15,7 +15,9 @@ To analyze and compare product listings across India's leading e-commerce platfo
 
 Users can **filter the dashboard** by platform using clickable logos (Amazon / Flipkart / Reset).
 
+
 ---
+
 
 ## 🧰 Tools & Technologies
 
@@ -42,5 +44,6 @@ Users can **filter the dashboard** by platform using clickable logos (Amazon / F
 
 ---
 
-
+## 🔗Dashboard Link
+https://app.powerbi.com/links/E5tPK-4CVu?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare
 
